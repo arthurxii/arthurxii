@@ -4,6 +4,8 @@
 - 🌱 I’m currently working with and learning Java (Selenium, Rest-Assured), Ruby (Httparty, Rspec and Capybara) and Javascript (Cypress), focused on Automation Tests;
 - 🎓 I'm graduated in Computer Science, and post-graduated in Engineering and Software Quality.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur&label=Profile%20views&color=0e75b6&style=flat" alt="arthur" /> </p>
+
 <div>
   <a href="https://github.com/arthurxii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurxii&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
