@@ -1,7 +1,7 @@
 ### Hello! My name is Arthur!
 
 - 🔭 I’m currently work as a Software Test Engineer on labsit.io;
-- 🌱 I’m currently working with and learning Java (Selenium, Rest-Assured), Ruby (Httparty, Rspec and Capybara) and Javascript (Cypress), focused on Automation Tests;
+- 🌱 I’m currently working with and learning Java (Selenium, Rest-Assured), Ruby (Httparty, Rspec and Capybara) and Javascript (Cypress, CodeceptJS), focused on Web, API and Mobile Automation Tests;
 - 🎓 I'm graduated in Computer Science, and post-graduated in Engineering and Software Quality.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur&label=Profile%20views&color=0e75b6&style=flat" alt="arthur" /> </p>
@@ -18,6 +18,7 @@
   <img align="center" alt="Arthur-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Arthur-cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
   <img align="center" alt="Arthur-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
+  <img align="center" alt="Arthur-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <img align="center" alt="Arthur-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Arthur-Rspec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg">
   <img align="center" alt="Arthur-postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
