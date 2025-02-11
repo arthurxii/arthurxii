@@ -19,6 +19,7 @@
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Arthur-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Arthur-python" height="30" width="40" src="https://raw.githubusercontent.com/gist/UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8/raw/a8ef57341f4efbc86544bc65d8c0f14387ceec9f/playwright_svg.svg">
+  <img align="center" alt="Arthur-python" height="30" width="40" src="https://www.svgrepo.com/show/349485/python.svg">
   <img align="center" alt="Arthur-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <img align="center" alt="Arthur-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Arthur-Rspec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg">
@@ -33,7 +34,6 @@
   <img align="center" alt="Arthur-jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Arthur-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Arthur-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Arthur-python" height="30" width="40" src="https://www.svgrepo.com/show/349485/python.svg">
   
   ##
   
