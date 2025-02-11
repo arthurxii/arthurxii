@@ -18,6 +18,7 @@
   <img align="center" alt="Arthur-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Arthur-cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
   <img align="center" alt="Arthur-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
+  <img align="center" alt="Arthur-python" height="30" width="40" src="https://raw.githubusercontent.com/gist/UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8/raw/a8ef57341f4efbc86544bc65d8c0f14387ceec9f/playwright_svg.svg">
   <img align="center" alt="Arthur-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <img align="center" alt="Arthur-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Arthur-Rspec" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg">
