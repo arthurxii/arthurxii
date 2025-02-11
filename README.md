@@ -15,10 +15,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-cypress" height="30" width="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
   <img align="center" alt="Arthur-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
+  <img align="center" alt="Arthur-playwright" height="30" width="40" src="https://raw.githubusercontent.com/gist/UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8/raw/a8ef57341f4efbc86544bc65d8c0f14387ceec9f/playwright_svg.svg">
+  <img align="center" alt="Arthur-Robot" height="30" width="40" src="https://www.svgrepo.com/show/374049/robotframework.svg">
   <img align="center" alt="Arthur-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Arthur-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Arthur-python" height="30" width="40" src="https://raw.githubusercontent.com/gist/UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8/raw/a8ef57341f4efbc86544bc65d8c0f14387ceec9f/playwright_svg.svg">
   <img align="center" alt="Arthur-python" height="30" width="40" src="https://www.svgrepo.com/show/349485/python.svg">
   <img align="center" alt="Arthur-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <img align="center" alt="Arthur-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
