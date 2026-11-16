@@ -1,6 +1,6 @@
 ### Hello! My name is Arthur!
 
-- 🔭 I’m currently work as a QA Engineer in CWI Software;
+- 🔭 I’m currently work as a QA Engineer at Pagbank;
 - 🌱 I’m currently working with and learning Java (Selenium, Rest-Assured), Ruby (Httparty, Rspec and Capybara), Javascript (Cypress, CodeceptJS, Playwright) and Python (Selenium, BeautifulSoup and Robot Framework), focused on Web, Back-end, API and Mobile Automation Tests;
 - 🎓 I'm graduated in Computer Science, and post-graduated in Engineering and Software Quality.
 
